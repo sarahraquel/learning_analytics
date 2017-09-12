@@ -1,2 +1,4 @@
-/.ipynb_checkpoints
-*.py~
+pynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
